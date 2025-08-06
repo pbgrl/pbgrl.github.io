@@ -1,0 +1,22 @@
+"Dryad":
+  url: https://datadryad.org/search?q=0000-0002-3044-2286
+  color: "#444444"
+
+"Zenodo":
+  url: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Shrestha%2C%20Surya%22&l=list&p=1&s=10&sort=bestmatch
+  color: "#444444"
+
+"G3":
+  url: https://academic.oup.com/g3journal/search-results?f_Authors=Surya+L+Shrestha
+
+"Euphytica":
+  url: https://link.springer.com/search?sortBy=newestFirst&dc.creator=Surya%20L.%20Shrestha
+
+"Agronomy":
+  url: https://www.mdpi.com/search?authors=surya+l.+shrestha&journal=agronomy
+
+"Crop Sci":
+  url: https://acsess.onlinelibrary.wiley.com/authored-by/Shrestha/Surya+L.
+
+"Agrosyst Geosci":
+  url: https://acsess.onlinelibrary.wiley.com/authored-by/Shrestha/Surya+L.

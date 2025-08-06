@@ -1,0 +1,100 @@
+
+- title: Area of Interests
+  type: list
+  contents:
+    - Varietal improvement, conventional and molecular plant breeding, agronomic and physiological trait-based selection, biotic and abiotic stress physiology, disease identification and screening, and microbial analyses
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Doctor of Philosophy
+      institution: Washington State University, Pullman, WA, USA
+      year: 2014
+      description:
+        - Major - Crop Science
+        - Dissertation - Improving drought tolerance in wheat with physiological and molecular tools
+        - Supervisor - Dr. Scot H. Hulbert
+    
+    - title: Master of Science
+      institution: North Dakota State University, Fargo, ND, USA
+      year: 2008
+      description:
+        - Major - Agriculture/Plant Pathology
+        - Thesis - Blemish diseases of potato tubers - cause, inoculum source and management
+        - Supervisor - Dr. Gary Secor
+
+    - title: Bachelor of Science
+      institution: Tribhuvan University, Institute of Agriculture and Animal Science, Chitwan, Nepal
+      year: 2003
+      description: 
+        - Major - Agriculture/Soil Science
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Tennessee Tech University, School of Agriculture, Cookeville, TN 
+      year: 2025.08 - present
+
+    - title: Agricultural Scientist
+      institution: Tennessee Department of Agriculture, Nashville, TN 
+      year: 2025.01 - 2025.07
+
+    - title: Research Scholar
+      institution: North Carolina State University, Department of Horticultural Science, Kannapolis, NC
+      year: 2023.08 - 2024.04
+
+    - title: Postdoctoral Research Associate
+      institution:  University of Tennessee, Department of Plant Science, Knoxville, TN 
+      year: 2019.11 - 2023.07
+
+    - title: Adjunct Faculty
+      institution: Pellissippi State Community College, Hardin Valley Campus, Knoxville, TN
+      year: 2019.08 - 2019.12
+
+    - title: Soybean Breeder
+      institution: Bayer CropScience, Marion, AR
+      year: 2014.12 - 2017.05
+
+    - title: Postdoctoral Research Associate
+      institution: Texas A&M University, AgriLife Center, Uvalde, TX  
+      year: 2014.09 - 2014.11
+
+    - title: Research Associate
+      institution: Washington State University, Department of Crop and Soil Science, Pullman, WA  
+      year: 2014.02 - 2014.08
+
+    - title: Graduate Research Assistant
+      institution: Washington State University, Department of Crop and Soil Science, Pullman, WA  
+      year: 2009.01 - 2014.01
+
+    - title: Graduate Research Assistant
+      institution: North Dakota State University, Department of Plant Pathology, Fargo, ND  
+      year: 2006.08 - 2008.12
+
+    - title: Research Assistant
+      institution: Regional Office of the International Maize and Wheat Improvement Center (CIMMYT), Kathmandu, Nepal
+      year: 2004.01 - 2006.07
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2010-2012
+      items:
+        - Monsanto’s Beachell-Borlaug International Scholarship
+    - year: 2012
+      items:
+        - Travel award, ASA-CSSA-SSSA International Annual Meeting, Cincinnati, OH
+    - year: 2010
+      items:
+        - Travel award, short course on “Plant breeding for drought tolerance” at Colorado State University, Fort Colins, CO
+    - year: 2009, 2011
+      items:
+        - Harry E. Goldsworthy Wheat Research Fund Award
+    - year: 2008
+      items:
+        - Honor Society of Phi Kappa Phi
+    - year: 2000
+      items:
+        - ‘Aishwarya Vidhya Padak’ scholastic medal for academic excellence by Her Majesty the Queen of Nepal
+

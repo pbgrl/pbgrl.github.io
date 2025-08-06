@@ -1,0 +1,30 @@
+<div class="col">
+  <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
+    <div class="card h-100 hoverable">
+      {% if project.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=project.img
+          sizes = "250px"
+          height = "150px"
+          alt="project thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h3 class="card-title">{{ project.title }}</h3>
+        <p class="card-text">{{ project.description }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {% if project.agency %}
+            <div class="project">
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                {{ project.agency }}
+              </span>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
