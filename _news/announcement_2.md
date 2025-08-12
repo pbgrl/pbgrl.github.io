@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [new publication in GCB Bioenergy](https://doi.org/10.1111/gcbb.70060) identified QTL for bioenergy traits in switchgrass
+Our [new publication in GCB Bioenergy: QTL identification for bioenergy traits in switchgrass](https://doi.org/10.1111/gcbb.70060)
