@@ -52,6 +52,9 @@ ninja.data = [{
             },},{id: "news-dr-surya-l-shrestha-joins-tennessee-tech-university",
           title: 'Dr. Surya L Shrestha joins Tennessee Tech University',
           description: "",
+          section: "News",},{id: "news-our-new-publication-in-gcb-bioenergy-identified-qtl-for-bioenergy-traits-in-switchgrass",
+          title: 'Our new publication in GCB Bioenergy identified QTL for bioenergy traits in switchgrass...',
+          description: "",
           section: "News",},{id: "projects-plant-breeding-and-genetics",
           title: 'Plant breeding and genetics',
           description: "",
@@ -88,13 +91,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%73%73%68%72%65%73%74%68%61@%74%6E%74%65%63%68.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/slshrestha", "_blank");
         },
       },{
         id: 'social-linkedin',
