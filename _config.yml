@@ -235,7 +235,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Shrestha]
-  first_name: [Surya L.]
+  first_name: [Surya L., Surya]
 
   style: apa
   locale: en
